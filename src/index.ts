@@ -1,1 +1,1 @@
-console.log("YouTube Music Vibrancy!");
+console.log("Node typescript Template");
